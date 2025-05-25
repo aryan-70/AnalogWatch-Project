@@ -1,2 +1,2 @@
-# AnalogWatch-Project
-AnalogWatch  Description
+# AnalogClock-Project
+AnalogClock  Description
